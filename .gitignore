@@ -1,0 +1,12 @@
+node_modules/
+dist/
+release/
+*.log
+.research/
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+sources.json
+window.json
